@@ -16,7 +16,7 @@ I'm a **Scientific Machine Learning** (SciML) researcher working at the intersec
 
 ▸ &nbsp;**First-author paper** accepted in the **_Chinese Journal of Physics_ (Q1)** — physics-informed ML screening and validation of MOF/g-C₃N₄ heterojunction photocatalysts &nbsp;→&nbsp; [**Source Code**](https://github.com/khanaiml/mof-gcn-ml-screening)
 
-▸ &nbsp;**MPhil thesis** — explainable variational autoencoders with ensemble feature selection for cancer biomarker identification *(publication in preparation)*
+▸ &nbsp;**MPhil thesis** — explainable variational autoencoders with ensemble feature selection for cancer biomarker identification
 
 ▸ &nbsp;**Current work** — semantic neuron consolidation | AI for energy management | Pakistan dengue outbreak prediction
 
