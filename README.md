@@ -32,7 +32,7 @@
 
 <a href="#about"><strong>ABOUT</strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#research"><strong>RESEARCH</strong></a>
+<a href="#research"><strong>PUBLICATION</strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="#projects"><strong>PROJECTS</strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -68,7 +68,7 @@ My work combines scientific reasoning, machine learning, and practical engineeri
 ## Research
 
 <details open>
-<summary><strong>First-Author Publication · Physics-Informed Materials Discovery</strong></summary>
+<summary><strong>Physics-Informed Materials Discovery</strong></summary>
 
 <br>
 
@@ -92,18 +92,7 @@ A physics-informed machine-learning workflow for large-scale screening and valid
 
 Metal ionic radius · linker π-conjugation · structural stability · pore accessibility
 
-[**Source Code →**](https://github.com/khanaiml/mof-gcn-ml-screening)
-
-</details>
-
-<details>
-<summary><strong>Research Direction</strong></summary>
-
-<br>
-
-My broader research interest is the development of **reliable scientific AI** that connects predictive modeling with domain knowledge and meaningful validation.
-
-`Physics-Informed Learning` · `Uncertainty Quantification` · `Out-of-Distribution Detection` · `Explainable AI` · `Scientific Representation Learning` · `External & Shift-Aware Validation` · `Reproducible ML`
+[**Source Code**](https://github.com/khanaiml/mof-gcn-ml-screening) &nbsp;&nbsp; [**Paper**](https://doi.org/10.1016/j.cjph.2026.07.025)
 
 </details>
 
