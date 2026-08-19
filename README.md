@@ -258,7 +258,7 @@ Built and deployed production ML systems across **predictive lead scoring, compu
 
 Conducted R&D in **interpretability, uncertainty quantification, and reliable ML architectures**.
 
-Designed and directed a structured **6-month AI/ML internship program** and mentored **9 interns** — 3 graduated with distinction.
+Designed and directed a structured **6-month AI/ML internship program** and mentored **9 interns**, 3 graduated with distinction.
 
 </details>
 
