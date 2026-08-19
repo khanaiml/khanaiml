@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="margin:0; font-family:'Fira Code',monospace; font-size:28px; color:#2F81F7;">
+<h1 style="margin:0; font-family:'Fira Code',monospace; font-size:25px; color:#2F81F7;">
   Abdullah Khan
 </h1>
 <p style="margin:0;">
