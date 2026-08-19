@@ -102,15 +102,11 @@ A reliability-aware SciML platform for **composition-based thermodynamic stabili
 
 **Pipeline**
 
-`132 Magpie Descriptors`  `XGBoost`  `Calibration`  `Uncertainty`  `OOD Risk`  `Candidate Ranking`
+`132 Magpie Descriptors` → `XGBoost` → `Calibration` → `Uncertainty` → `OOD Risk` → `Candidate Ranking`
 
-**Benchmark**
+**Benchmark** &nbsp; `ROC-AUC 0.8521` · `F1 0.7082` · `AUPR 0.7872` · `ECE 0.0246`
 
-`ROC-AUC 0.8521` · `F1 0.7082` · `AUPR 0.7872` · `ECE 0.0246`
-
-**Stack**
-
-`Python` · `XGBoost` · `FastAPI` · `Streamlit` · `SQLite`
+**Stack** &nbsp; `Python` · `XGBoost` · `FastAPI` · `Streamlit` · `SQLite`
 
 [**Repository**](https://github.com/khanaiml/ai-materials-screening)
 
