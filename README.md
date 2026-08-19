@@ -165,7 +165,7 @@ A focused study in **scientific reproducibility and evaluation fidelity**.
 
 Cross-domain empirical research spanning superconductivity, battery SOH, cancer prognosis, steel-defect segmentation, and ML pipeline leakage analysis.
 
-[**Kaggle Notebooks**](https://www.kaggle.com/abdullahkhan161101/code)
+[**Kaggle Notebooks**]([https://www.kaggle.com/abdullahkhan161101/code](https://www.kaggle.com/work/code))
 
 </details>
 
