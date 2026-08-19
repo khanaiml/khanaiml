@@ -32,7 +32,7 @@
 
 <a href="#about"><strong>ABOUT</strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#research"><strong>PUBLICATION</strong></a>
+<a href="#research"><strong>RESEARCH</strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="#projects"><strong>PROJECTS</strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -54,7 +54,7 @@
 
 I am a **Scientific Machine Learning researcher and AI/ML engineer** working at the intersection of **machine learning and the natural sciences**, with applications across **materials science, energy systems, and computational healthcare**.
 
-My work combines scientific reasoning, machine learning, and practical engineering to build systems that are **interpretable, uncertainty-aware, robust under distribution shift, and reproducible**.
+My work combines scientific reasoning, machine learning, and practical engineering to develop systems that are **interpretable, uncertainty-aware, robust under distribution shift, and reproducible.**
 
 > **Does a model merely perform well or can we trust what it predicts?**
 
@@ -65,7 +65,7 @@ My work combines scientific reasoning, machine learning, and practical engineeri
 
 <a id="research"></a>
 
-## PUBLICATION
+## RESEARCH
 <details open>
 <summary><strong>Physics-Informed Materials Discovery</strong></summary>
 <br>
@@ -161,8 +161,7 @@ Independent reproduction of a published inorganic-crystal stability benchmark.
 
 Cross-domain empirical research spanning superconductivity, battery SOH, cancer prognosis, steel-defect segmentation, and ML pipeline leakage analysis.
 
-[**Kaggle Notebooks**](https://www.kaggle.com/work/code)
-
+[**Kaggle Notebooks**](https://www.kaggle.com/abdullahkhan161101/code)
 </details>
 
 ---
@@ -236,7 +235,7 @@ TF-IDF + Linear SVM achieved **99.95%** accuracy vs **99.53%** for DistilBERT.
 Superconductivity: **R² = 0.931** on random splits, with **+55.5% MAE** under chemical-family holdout.
 
 **External validation**  
-Multimodal oncology: **0.984 ROC-AUC** in cross-validation  **0.681** on external cohorts.
+Multimodal oncology: **0.984 ROC-AUC** in cross-validation → **0.681** on external cohorts.
 
 **Reproducibility**  
 ECSG reproduction: **0.8859 ROC-AUC** vs **0.8860** reported.
@@ -312,9 +311,9 @@ Data preparation, baseline modeling, hyperparameter evaluation, and ML integrati
 
 **Research evidence**
 
-`20,531  12 genes` · `99.97% accuracy` on primary dataset
+`20,531 → 12 genes` · `99.97% accuracy` on primary dataset
 
-`66,660  34 genes` · `99.31% accuracy` on independent RNA-seq validation
+`66,660 → 34 genes` · `99.31% accuracy` on independent RNA-seq validation
 
 </details>
 
