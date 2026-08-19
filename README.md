@@ -161,7 +161,7 @@ Independent reproduction of a published inorganic-crystal stability benchmark.
 
 Cross-domain empirical research spanning superconductivity, battery SOH, cancer prognosis, steel-defect segmentation, and ML pipeline leakage analysis.
 
-[**Kaggle Notebooks**]([https://www.kaggle.com/abdullahkhan161101/code](https://www.kaggle.com/work/code))
+[**Kaggle Notebooks**](https://www.kaggle.com/work/code))
 
 </details>
 
