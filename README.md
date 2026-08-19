@@ -134,7 +134,7 @@ An integrated AI platform spanning **battery degradation, energy forecasting, ph
 
 **Methods** &nbsp; `Physics-Regularized Neural Networks` · `Walk-Forward Validation` · `P10/P50/P90 Forecasting` · `HiGHS Optimization`
 
-[**Repository **](https://github.com/khanaiml/energy-systems-intelligence)
+[**Repository**](https://github.com/khanaiml/energy-systems-intelligence)
 
 </details>
 
