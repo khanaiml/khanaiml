@@ -1,39 +1,23 @@
 <div align="center">
 
-<h1 style="margin:0; padding:0; border:none; text-decoration:none; font-family:'Fira Code',monospace; font-size:25px; color:#2F81F7; line-height:1.1;">
-  Abdullah Khan
-</h1>
+<span style="font-family:'Fira Code',monospace; font-size:25px; color:#2F81F7; line-height:1;">Abdullah Khan</span><br>
 
-<p style="margin:0; padding:0; line-height:1;">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=2F81F7&center=true&vCenter=true&width=700&lines=SciML+Researcher+%7C+AI%2FML+Engineer;Materials+%E2%80%A2+Energy+%E2%80%A2+Healthcare"
-    alt="roles"
-    style="display:block; margin:0 auto;"
-  />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=600&color=2F81F7&center=true&vCenter=true&width=600&lines=SciML+Researcher+%7C+AI%2FML+Engineer;Materials+%E2%80%A2+Energy+%E2%80%A2+Healthcare" alt="roles" style="display:inline-block; height:24px; margin:0;"><br>
 
-<p style="margin:0; padding:0; line-height:1.2;">
-  <sub>
-    Building reliable, explainable, and reproducible AI systems for scientific discovery.
-  </sub>
-</p>
+<sub style="line-height:1;">Building reliable, explainable, and reproducible AI systems for scientific discovery.</sub><br>
 
-<p style="margin:0; padding:0; line-height:1;">
-  <a href="https://www.linkedin.com/in/mrabdullahkhan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.kaggle.com/abdullahkhan161101">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
-  </a>
-  <a href="mailto:abdullahkhan.prof@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/mrabdullahkhan">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.kaggle.com/abdullahkhan161101">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
+</a>
+<a href="mailto:abdullahkhan.prof@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a><br>
 
-<p style="margin:0; padding:0; line-height:1;">
-  <img src="https://img.shields.io/badge/Upper%20Dir%2C%20KP%2C%20Pakistan-36454F?style=flat-square" alt="Location">
-  <img src="https://img.shields.io/badge/Open%20to-PhD%20%7C%20Research%20%7C%20AI%2FML%20Role-2F81F7?style=flat-square" alt="Open to PhD | Research | AI/ML Role">
-</p>
+<img src="https://img.shields.io/badge/Upper%20Dir%2C%20KP%2C%20Pakistan-36454F?style=flat-square" alt="Location">
+<img src="https://img.shields.io/badge/Open%20to-PhD%20%7C%20Research%20%7C%20AI%2FML%20Role-2F81F7?style=flat-square" alt="Open to PhD | Research | AI/ML Role">
 
 </div>
 
