@@ -69,6 +69,7 @@ My work combines scientific reasoning, machine learning, and practical engineeri
 <details open>
 <summary><strong>Physics-Informed Materials Discovery</strong></summary>
 <br>
+  
 ### Physics-informed machine learning screening and validation of MOF/g-C₃N₄ heterojunction photocatalysts
 
 **Chinese Journal of Physics · Elsevier · 2026** <br>
