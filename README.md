@@ -11,10 +11,9 @@
   </sub>
 </p>
 
-<!-- Two‑column header: connections left, location / open‑to right -->
-<table width="100%" style="border-collapse: collapse; border: none;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="left" style="border: none;">
+    <td align="left" valign="middle" style="border: none; padding: 0;">
       <a href="https://www.linkedin.com/in/mrabdullahkhan">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
@@ -24,13 +23,10 @@
       <a href="mailto:abdullahkhan.prof@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
       </a>
-      <a href="https://github.com/khanaiml?tab=repositories">
-        <img src="https://img.shields.io/badge/GitHub-36454F?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-      </a>
     </td>
-    <td align="right" style="border: none;">
-      <img src="https://img.shields.io/badge/Upper_Dir%2C_KP%2C_Pakistan-36454F?style=flat-square" alt="Location">
-      <img src="https://img.shields.io/badge/Open_to-PhD_%7C_Research_%7C_AI%2FML_Role-2F81F7?style=flat-square" alt="Open to PhD | Research | AI/ML Role">
+    <td align="right" valign="middle" style="border: none; padding: 0;">
+      <img src="https://img.shields.io/badge/Upper%20Dir%2C%20KP%2C%20Pakistan-36454F?style=flat-square" alt="Location">
+      <img src="https://img.shields.io/badge/Open%20to-PhD%20%7C%20Research%20%7C%20AI%2FML%20Role-2F81F7?style=flat-square" alt="Open to">
     </td>
   </tr>
 </table>
