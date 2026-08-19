@@ -1,10 +1,14 @@
 <div align="center">
 
-<p>
+<h1 style="margin:0; font-family:'Fira Code',monospace; font-size:28px; color:#2F81F7;">
+  Abdullah Khan
+</h1>
+<p style="margin:0;">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3200&pause=800&color=2F81F7&center=true&vCenter=true&width=900&lines=Abdullah+Khan;SciML+Researcher+%7C+AI%2FML+Engineer;Materials+%E2%80%A2+Energy+%E2%80%A2+Healthcare"
-    alt="Abdullah Khan"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=2F81F7&center=true&vCenter=true&width=700&lines=SciML+Researcher+%7C+AI%2FML+Engineer;Materials+%E2%80%A2+Energy+%E2%80%A2+Healthcare"
+    alt="roles"
   />
+</p>
   <br/>
   <sub>
     Building reliable, explainable, and reproducible AI systems for scientific discovery.
