@@ -78,7 +78,7 @@ My work combines scientific reasoning, machine learning, and practical engineeri
 
 A physics-informed machine-learning workflow for large-scale screening and validation of MOF candidates for Type-II heterojunction photocatalysis.
 
-**20,152 MOFs → 983 high-confidence candidates**
+**20,152 MOFs  983 high-confidence candidates**
 
 `ROC-AUC 0.912` · `Top-50 Precision 98%` · `External Recall 100%`
 
@@ -111,7 +111,7 @@ A reliability-aware SciML platform for **composition-based thermodynamic stabili
 
 **Pipeline**
 
-`132 Magpie Descriptors` → `XGBoost` → `Calibration` → `Uncertainty` → `OOD Risk` → `Candidate Ranking`
+`132 Magpie Descriptors`  `XGBoost`  `Calibration`  `Uncertainty`  `OOD Risk`  `Candidate Ranking`
 
 **Benchmark**
 
@@ -121,7 +121,7 @@ A reliability-aware SciML platform for **composition-based thermodynamic stabili
 
 `Python` · `XGBoost` · `FastAPI` · `Streamlit` · `SQLite`
 
-[**Repository →**](https://github.com/khanaiml/ai-materials-screening)
+[**Repository **](https://github.com/khanaiml/ai-materials-screening)
 
 </details>
 
@@ -136,7 +136,7 @@ Reliability-aware clinical AI combining **digital pathology and genomic transcri
 
 **Stack:** `Next.js` · `FastAPI` · `SQLAlchemy` · `Docker`
 
-[**Repository →**](https://github.com/khanaiml/multimodal-oncology-ai)
+[**Repository **](https://github.com/khanaiml/multimodal-oncology-ai)
 
 </details>
 
@@ -151,7 +151,7 @@ An integrated AI platform spanning **battery degradation, energy forecasting, ph
 
 `Physics-Regularized Neural Networks` · `Walk-Forward Validation` · `P10/P50/P90 Forecasting` · `HiGHS Optimization`
 
-[**Repository →**](https://github.com/khanaiml/energy-systems-intelligence)
+[**Repository **](https://github.com/khanaiml/energy-systems-intelligence)
 
 </details>
 
@@ -178,7 +178,7 @@ A focused study in **scientific reproducibility and evaluation fidelity**.
 
 Cross-domain empirical research spanning superconductivity, battery SOH, cancer prognosis, steel-defect segmentation, and ML pipeline leakage analysis.
 
-[**Kaggle Notebooks →**](https://www.kaggle.com/abdullahkhan161101/code)
+[**Kaggle Notebooks **](https://www.kaggle.com/abdullahkhan161101/code)
 
 </details>
 
@@ -198,7 +198,7 @@ Cross-domain empirical research spanning superconductivity, battery SOH, cancer 
 **383,338 surveillance records across 102 countries and territories**  
 Curated for epidemiological modeling, temporal forecasting, and spatiotemporal outbreak analysis.
 
-[**Explore Dataset →**](https://www.kaggle.com/abdullahkhan161101/datasets)
+[**Explore Dataset **](https://www.kaggle.com/abdullahkhan161101/datasets)
 
 </details>
 
@@ -210,7 +210,7 @@ Curated for epidemiological modeling, temporal forecasting, and spatiotemporal o
 **100 stability-ranked genes across 5 cancer cohorts** — BRCA, COAD, KIRC, LUAD, PRAD  
 Designed for biomarker discovery, feature-selection stability, and interpretable oncology ML.
 
-[**Explore Dataset →**](https://www.kaggle.com/abdullahkhan161101/datasets)
+[**Explore Dataset **](https://www.kaggle.com/abdullahkhan161101/datasets)
 
 </details>
 
@@ -222,7 +222,7 @@ Designed for biomarker discovery, feature-selection stability, and interpretable
 **Ground-measured solar and meteorological data from 9 weather stations**  
 Supports GHI/DNI/DHI irradiance forecasting and renewable-resource characterization.
 
-[**Explore Dataset →**](https://www.kaggle.com/abdullahkhan161101/datasets)
+[**Explore Dataset **](https://www.kaggle.com/abdullahkhan161101/datasets)
 
 </details>
 
@@ -234,7 +234,7 @@ Supports GHI/DNI/DHI irradiance forecasting and renewable-resource characterizat
 **900 curated Metal–Organic Frameworks** with electronic, pore, and geometric metadata  
 Built for materials informatics, PBE band gap prediction, and small-data representation learning.
 
-[**Explore Dataset →**](https://www.kaggle.com/abdullahkhan161101/datasets)
+[**Explore Dataset **](https://www.kaggle.com/abdullahkhan161101/datasets)
 
 </details>
 
@@ -254,7 +254,7 @@ TF-IDF + Linear SVM achieved **99.95%** accuracy vs **99.53%** for DistilBERT.
 Superconductivity: **R² = 0.931** on random splits, with **+55.5% MAE** under chemical-family holdout.
 
 **External validation**  
-Multimodal oncology: **0.984 ROC-AUC** in cross-validation → **0.681** on external cohorts.
+Multimodal oncology: **0.984 ROC-AUC** in cross-validation  **0.681** on external cohorts.
 
 **Reproducibility**  
 ECSG reproduction: **0.8859 ROC-AUC** vs **0.8860** reported.
@@ -332,9 +332,9 @@ Data preparation, baseline modeling, hyperparameter evaluation, and ML integrati
 
 **Research evidence**
 
-`20,531 → 12 genes` · `99.97% accuracy`
+`20,531  12 genes` · `99.97% accuracy`
 
-`66,660 → 34 genes` · `99.31% accuracy` on independent RNA-seq validation
+`66,660  34 genes` · `99.31% accuracy` on independent RNA-seq validation
 
 </details>
 
