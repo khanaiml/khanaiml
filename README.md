@@ -75,22 +75,15 @@ My work combines scientific reasoning, machine learning, and practical engineeri
 ### Physics-informed machine learning screening and validation of MOF/g-C₃N₄ heterojunction photocatalysts
 
 **Chinese Journal of Physics · Elsevier · 2026**
-
 A physics-informed machine-learning workflow for large-scale screening and validation of MOF candidates for Type-II heterojunction photocatalysis.
 
-**20,152 MOFs  983 high-confidence candidates**
-
+**20,152 MOFs → 983 high-confidence candidates**
 `ROC-AUC 0.912` · `Top-50 Precision 98%` · `External Recall 100%`
-
 `+27.6 pp` over physics-rule baselines · `~20.5×` estimated screening-cost reduction
 
-**Methods**
+**Methods:** &nbsp `Random Forest` · `XGBoost` · `SHAP` · `Physicochemical Descriptors` · `Physical Constraints`
 
-`Random Forest` · `XGBoost` · `SHAP` · `Physicochemical Descriptors` · `Physical Constraints`
-
-**Interpretable drivers**
-
-Metal ionic radius · linker π-conjugation · structural stability · pore accessibility
+**Interpretable drivers:** &nbsp Metal ionic radius · linker π-conjugation · structural stability · pore accessibility
 
 [**Source Code**](https://github.com/khanaiml/mof-gcn-ml-screening) &nbsp;&nbsp; [**Paper**](https://doi.org/10.1016/j.cjph.2026.07.025)
 
