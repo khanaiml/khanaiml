@@ -100,9 +100,7 @@ A physics-informed machine-learning workflow for large-scale screening and valid
 
 A reliability-aware SciML platform for **composition-based thermodynamic stability screening of inorganic crystals**.
 
-**Pipeline**
-
-`132 Magpie Descriptors` → `XGBoost` → `Calibration` → `Uncertainty` → `OOD Risk` → `Candidate Ranking`
+**Pipeline** &nbsp; `132 Magpie Descriptors` → `XGBoost` → `Calibration` → `Uncertainty` → `OOD Risk` → `Candidate Ranking`
 
 **Benchmark** &nbsp; `ROC-AUC 0.8521` · `F1 0.7082` · `AUPR 0.7872` · `ECE 0.0246`
 
@@ -134,9 +132,7 @@ Reliability-aware clinical AI combining **digital pathology and genomic transcri
 
 An integrated AI platform spanning **battery degradation, energy forecasting, photovoltaic modeling, digital twins, and constrained dispatch**.
 
-**Methods**
-
-`Physics-Regularized Neural Networks` · `Walk-Forward Validation` · `P10/P50/P90 Forecasting` · `HiGHS Optimization`
+**Methods** &nbsp; `Physics-Regularized Neural Networks` · `Walk-Forward Validation` · `P10/P50/P90 Forecasting` · `HiGHS Optimization`
 
 [**Repository **](https://github.com/khanaiml/energy-systems-intelligence)
 
