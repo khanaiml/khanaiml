@@ -150,7 +150,7 @@ Independent reproduction of a published inorganic-crystal stability benchmark.
 `ROC-AUC 0.8859` vs `0.8860` reported  
 `F1 0.7550` vs `0.7520` reported
 
-[**Repository**][(https://github.com/khanaiml/energy-systems-intelligence)](https://github.com/khanaiml/ecsg-stability-reproduction)
+[**Repository**](https://github.com/khanaiml/ecsg-stability-reproduction)
 
 </details>
 
