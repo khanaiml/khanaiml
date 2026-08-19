@@ -1,8 +1,3 @@
-<!-- =========================================================
-     ABDULLAH KHAN — GITHUB PROFILE README
-     Scientific Machine Learning · AI/ML Engineering
-     ========================================================= -->
-
 <div align="center">
 
 <p>
@@ -61,7 +56,7 @@ I am a **Scientific Machine Learning researcher and AI/ML engineer** working at 
 
 My work combines scientific reasoning, machine learning, and practical engineering to build systems that are **interpretable, uncertainty-aware, robust under distribution shift, and reproducible**.
 
-> **Does a model merely perform well — or can we trust what it predicts?**
+> **Does a model merely perform well or can we trust what it predicts?**
 
 **Core domains:**  
 `Scientific ML` · `Physics-Informed ML` · `Materials Informatics` · `Energy Intelligence` · `Healthcare AI` · `Reliable AI`
