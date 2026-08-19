@@ -69,14 +69,16 @@ My work combines scientific reasoning, machine learning, and practical engineeri
 <details open>
 <summary><strong>Physics-Informed Materials Discovery</strong></summary>
 <br>
-  
+
 ### Physics-informed machine learning screening and validation of MOF/g-C₃N₄ heterojunction photocatalysts
 
-**Chinese Journal of Physics · Elsevier · 2026** <br>
+**Chinese Journal of Physics · Elsevier · Volume 103, pp. 1881–1895 · 2026**  
+**Role:** First Author  
+**Co-authors:** Muhammad Saeed, Fakhrud Din, Farhat Ullah, Sami Ullah  
 A physics-informed machine-learning workflow for large-scale screening and validation of MOF candidates for Type-II heterojunction photocatalysis with g-C₃N₄.
 
 **20,152 MOFs → 983 high-confidence candidates** <br>
-`ROC-AUC 0.912` · `Top-50 Precision 98%` · `External Recall 100%`
+`ROC-AUC 0.912` · `Top-50 Precision 98%` · `External Family-Level Recall 100%` · `Precision 85.7%` (closed-shell safe-label subset, 11 families) · 
 `+27.6 pp` over physics-rule baselines · `~20.5×` estimated screening-cost reduction
 
 **Methods** &nbsp; `Random Forest` · `XGBoost` · `SHAP` · `Physics-Informed Descriptors` · `Butler–Mulliken Band Alignment` · `Physical Constraints`
@@ -170,8 +172,6 @@ Cross-domain empirical research spanning superconductivity, battery SOH, cancer 
 
 ## Open Research Data
 
-<!-- Replace each URL with the direct Kaggle dataset link if available -->
-
 <details>
 <summary><strong>Global Dengue Surveillance (1924–2023)</strong></summary>
 
@@ -257,7 +257,9 @@ Built and deployed production ML systems across **predictive lead scoring, compu
 
 Conducted R&D in **interpretability, uncertainty quantification, and reliable ML architectures**.
 
-Designed and directed a structured **6-month AI/ML internship program**, Total interns 9, 3 graduated with distinction.
+Designed and directed a structured **6-month AI/ML internship program**, **9 interns total**: **3 completed with distinction** - **6 currently active**
+
+Public intern testimonial: [**LinkedIn post**](https://www.linkedin.com/posts/mrabdullahkhan_machinelearning-artificialintelligence-explainableai-share-7492297447776419840-uSra/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFYOchoBi3tx1Yq9hvzJOQ16zm7Koq59VHI)
 
 </details>
 
