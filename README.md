@@ -308,13 +308,11 @@ Data preparation, baseline modeling, hyperparameter evaluation, and ML integrati
 
 **CGPA:** `3.81 / 4.00`
 
-**Thesis**
-
-*Cancer Biomarkers Identification using Explainable Variational Autoencoders with Ensemble Feature Selection*
+**Thesis:**&nbsp;*Cancer Biomarkers Identification using Explainable Variational Autoencoders with Ensemble Feature Selection*
 
 **Research evidence**
 
-`20,531  12 genes` · `99.97% accuracy`
+`20,531  12 genes` · `99.97% accuracy` on primary dataset
 
 `66,660  34 genes` · `99.31% accuracy` on independent RNA-seq validation
 
@@ -337,17 +335,13 @@ Data preparation, baseline modeling, hyperparameter evaluation, and ML integrati
 
 ## Technical Expertise
 
-**Scientific ML**  
-`SciML` · `Physics-Informed ML` · `PINNs` · `Materials Informatics` · `Computational Biology` · `Energy Intelligence` · `Multimodal AI`
+**Scientific ML**&nbsp;`SciML` · `Physics-Informed ML` · `PINNs` · `Materials Informatics` · `Computational Biology` · `Energy Intelligence` · `Multimodal AI`
 
-**Reliability & Evaluation**  
-`Uncertainty Quantification` · `OOD Detection` · `Calibration` · `ECE` · `SHAP` · `Distribution Shift` · `External Validation`
+**Reliability & Evaluation**&nbsp;`Uncertainty Quantification` · `OOD Detection` · `Calibration` · `ECE` · `SHAP` · `Distribution Shift` · `External Validation`
 
-**Machine Learning**  
-`Python` · `PyTorch` · `scikit-learn` · `XGBoost` · `TensorFlow` · `Transformers` · `NumPy` · `Pandas`
+**Machine Learning**&nbsp;`Python` · `PyTorch` · `scikit-learn` · `XGBoost` · `TensorFlow` · `Transformers` · `NumPy` · `Pandas`
 
-**Engineering & MLOps**  
-`FastAPI` · `Streamlit` · `Next.js` · `SQLAlchemy` · `SQLite` · `Docker` · `Git` · `GitHub Actions` · `MLflow`
+**Engineering & MLOps**&nbsp;`FastAPI` · `Streamlit` · `Next.js` · `SQLAlchemy` · `SQLite` · `Docker` · `Git` · `GitHub Actions` · `MLflow`
 
 ---
 
