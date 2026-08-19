@@ -121,7 +121,7 @@ A reliability-aware SciML platform for **composition-based thermodynamic stabili
 
 `Python` · `XGBoost` · `FastAPI` · `Streamlit` · `SQLite`
 
-[**Repository **](https://github.com/khanaiml/ai-materials-screening)
+[**Repository**](https://github.com/khanaiml/ai-materials-screening)
 
 </details>
 
@@ -136,7 +136,7 @@ Reliability-aware clinical AI combining **digital pathology and genomic transcri
 
 **Stack:** `Next.js` · `FastAPI` · `SQLAlchemy` · `Docker`
 
-[**Repository **](https://github.com/khanaiml/multimodal-oncology-ai)
+[**Repository**](https://github.com/khanaiml/multimodal-oncology-ai)
 
 </details>
 
@@ -178,7 +178,7 @@ A focused study in **scientific reproducibility and evaluation fidelity**.
 
 Cross-domain empirical research spanning superconductivity, battery SOH, cancer prognosis, steel-defect segmentation, and ML pipeline leakage analysis.
 
-[**Kaggle Notebooks **](https://www.kaggle.com/abdullahkhan161101/code)
+[**Kaggle Notebooks**](https://www.kaggle.com/abdullahkhan161101/code)
 
 </details>
 
@@ -198,7 +198,7 @@ Cross-domain empirical research spanning superconductivity, battery SOH, cancer 
 **383,338 surveillance records across 102 countries and territories**  
 Curated for epidemiological modeling, temporal forecasting, and spatiotemporal outbreak analysis.
 
-[**Explore Dataset **](https://www.kaggle.com/abdullahkhan161101/datasets)
+[**Explore Dataset**](https://www.kaggle.com/abdullahkhan161101/datasets)
 
 </details>
 
@@ -210,7 +210,7 @@ Curated for epidemiological modeling, temporal forecasting, and spatiotemporal o
 **100 stability-ranked genes across 5 cancer cohorts** — BRCA, COAD, KIRC, LUAD, PRAD  
 Designed for biomarker discovery, feature-selection stability, and interpretable oncology ML.
 
-[**Explore Dataset **](https://www.kaggle.com/abdullahkhan161101/datasets)
+[**Explore Dataset**](https://www.kaggle.com/abdullahkhan161101/datasets)
 
 </details>
 
@@ -222,7 +222,7 @@ Designed for biomarker discovery, feature-selection stability, and interpretable
 **Ground-measured solar and meteorological data from 9 weather stations**  
 Supports GHI/DNI/DHI irradiance forecasting and renewable-resource characterization.
 
-[**Explore Dataset **](https://www.kaggle.com/abdullahkhan161101/datasets)
+[**Explore Dataset**](https://www.kaggle.com/abdullahkhan161101/datasets)
 
 </details>
 
@@ -234,7 +234,7 @@ Supports GHI/DNI/DHI irradiance forecasting and renewable-resource characterizat
 **900 curated Metal–Organic Frameworks** with electronic, pore, and geometric metadata  
 Built for materials informatics, PBE band gap prediction, and small-data representation learning.
 
-[**Explore Dataset **](https://www.kaggle.com/abdullahkhan161101/datasets)
+[**Explore Dataset**](https://www.kaggle.com/abdullahkhan161101/datasets)
 
 </details>
 
@@ -366,6 +366,9 @@ Data preparation, baseline modeling, hyperparameter evaluation, and ML integrati
 
 **Engineering & MLOps**  
 `FastAPI` · `Streamlit` · `Next.js` · `SQLAlchemy` · `SQLite` · `Docker` · `Git` · `GitHub Actions` · `MLflow`
+
+---
+
 <p align="center">
   <i>Curiosity ignites research. Code forges intelligence.</i>
 </p>
