@@ -262,7 +262,7 @@ ECSG reproduction: **0.8859 ROC-AUC** vs **0.8860** reported.
 
 **Sep 2026 – Present**
 
-Helping students develop **critical thinking, problem-solving, and professional responsibility**, preparing them for careers in **academia and industry** by connecting academic learning with real-world practice.
+Alongside teaching and academic responsibilities, I help students develop **critical thinking, problem-solving, and professional responsibility**, connecting academic learning with practical skills for careers in **academia and industry**.
 
 </details>
 
