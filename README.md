@@ -2,7 +2,7 @@
 
 <p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3200&pause=800&color=2F81F7&center=true&vCenter=true&width=900&lines=Abdullah+Khan;SciML+Researcher+%7C+AI%2FML+Engineer;Materials+%E2%80%A2+Energy+%E2%80%A2+Healthcare"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3200&pause=800&color=2F81F7&center=true&vCenter=true&width=900&lines=Abdullah+Khan;SciML+Researcher+%7C+AI%2FML+Engineer+%7C+Lecturer+in+CS+at+AWKUM;Materials+%E2%80%A2+Energy+%E2%80%A2+Healthcare"
     alt="Abdullah Khan"
   />
 </p>
