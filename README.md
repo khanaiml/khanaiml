@@ -256,7 +256,11 @@ ECSG reproduction: **0.8859 ROC-AUC** vs **0.8860** reported.
 ## Experience
 
 <details open>
-<summary><strong>AI/ML Engineer & Mentor · TABSAP</strong> · Jan 2024 – Present</summary>
+<summary><strong>Lecturer in Computer Science · Abdul Wali Khan University Mardan</strong> · Sep 2026 – Present</summary>
+<br>
+
+<details open>
+<summary><strong>AI/ML Engineer & Mentor (Hybrid) · TABSAP</strong> · Jan 2024 – Present</summary>
 
 <br>
 
