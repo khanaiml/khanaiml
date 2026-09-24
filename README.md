@@ -57,11 +57,13 @@
 
 ## About
 
-I am a **Scientific Machine Learning researcher and AI/ML engineer** working at the intersection of **machine learning and the natural sciences**, with applications across **materials science, energy systems, and computational healthcare**.
+I am a **Scientific Machine Learning (SciML) researcher and AI/ML engineer**, currently serving as a **Lecturer in Computer Science at Abdul Wali Khan University Mardan, Pakistan**. My work connects **machine learning with the natural sciences**, with applications across **materials science, energy systems, and computational healthcare**.
 
-My work combines scientific reasoning, machine learning, and practical engineering to develop systems that are **interpretable, uncertainty-aware, robust under distribution shift, and reproducible.**
+I combine scientific reasoning, machine learning, and practical engineering to develop **interpretable and reproducible systems**, with an emphasis on **uncertainty estimation, robustness, and evaluation under distribution shift**.
 
-> **Does a model merely perform well or can we trust what it predicts?**
+> **Does a model merely perform well, or can we trust what it predicts?**
+
+Through **university teaching and technical mentorship**, I connect academic concepts with practical engineering, research methodology, and professional responsibility, helping prepare students for careers in **academia and industry**.
 
 **Core domains:**  
 `Scientific ML` · `Physics-Informed ML` · `Materials Informatics` · `Energy Intelligence` · `Healthcare AI` · `Reliable AI`
